@@ -1,4 +1,4 @@
-# IanDerry's Stimulator: Game Files
+# Yandere Simulator Archive: Game Files
 Hello everyone, welcome to this repository.
 
 Visual Guide:
