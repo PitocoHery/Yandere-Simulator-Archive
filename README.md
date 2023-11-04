@@ -1,2 +1,8 @@
-# IanDerry-Stimulator-Files
-This repository is a work in progress.
+# IanDerry's Stimulator: Game Files
+Hello everyone, welcome to this repository.
+
+Visual Guide:
+Coming soon
+
+FAQ:
+Coming Soon
