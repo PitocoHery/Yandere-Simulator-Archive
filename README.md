@@ -6,3 +6,7 @@ Coming soon
 
 FAQ:
 Coming Soon
+
+ToDo:
+Elaborate more on the folder with the textures of every single structure of the game
+Improve my broken english
